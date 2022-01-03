@@ -1,0 +1,19 @@
+{
+  "name": "github-profile",
+  "version": "1.0.0",
+  "description": "just my profile info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renttrent/renttrent.git"
+  },
+  "author": "@renttrent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renttrent/renttrent/issues"
+  },
+  "homepage": "https://github.com/renttrent/renttrent#readme"
+}
