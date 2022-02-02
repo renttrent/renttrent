@@ -2,7 +2,7 @@
 <h1>
 Hey, it's Rei <img src="https://c.tenor.com/772UebLay2gAAAAi/dm4uz3-foekoe.gif" width="25"/>
 </h1>
-<div align="center">
+<div align="center" style="display: 'flex';">
 <a href="https://linkedin.com/in/reiballa"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643763369~hmac=9ea9b84defceccc7da64b3c6e9e223b2" width="25"/></a>
 <a href="https://twitter.com/reithedev"><img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1643763452~hmac=b135529dc11aae078d601215da69a3e2" width="25"/></a>
 <a href="https://reithedev.xyz"><img src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721725.png?token=exp=1643763511~hmac=d66c4e3f13280f6534976a22d2278b68" width="25"/></a>
@@ -13,14 +13,16 @@ Hey, it's Rei <img src="https://c.tenor.com/772UebLay2gAAAAi/dm4uz3-foekoe.gif" 
 I like the web. <br />
 I love designing user experiences and good systems.
 
-### Latest interests:
----
-1. Web3
-2. Smart Contracts
-3. Edge functions
-4. GoLang
+<h3 align="center">Latest intersets</h3>
 
-### Coding arsenal
+---
+- Web3
+- Smart Contracts
+- Edge functions
+- GoLang
+- WASM
+
+<h3 align="center">Coding arsenal</h3>
 ---
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
