@@ -3,9 +3,9 @@
 Hey, it's Rei <img src="https://c.tenor.com/772UebLay2gAAAAi/dm4uz3-foekoe.gif" width="25"/>
 </h1>
 <div align="center" style="display: 'flex';">
-<a href="https://linkedin.com/in/reiballa"><img src="https://img.icons8.com/ios/250/000000/linkedin.png" width="25"/></a>
-<a href="https://twitter.com/reithedev"><img src="https://img.icons8.com/ios/250/000000/twitter.png" width="25"/></a>
-<a href="https://reithedev.xyz"><img src="https://img.icons8.com/ios/250/000000/source-code.png" width="25"/></a>
+<a href="https://linkedin.com/in/reiballa"><img src="https://img.icons8.com/ios/250/FFFFFF/linkedin.png" width="25"/></a>
+<a href="https://twitter.com/reithedev"><img src="https://img.icons8.com/ios/250/FFFFFF/twitter.png" width="25"/></a>
+<a href="https://reithedev.xyz"><img src="https://img.icons8.com/ios/250/000000/FFFFFF-code.png" width="25"/></a>
 </div>
 </div>
 <br />
