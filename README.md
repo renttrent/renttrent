@@ -3,9 +3,9 @@
 Hey, it's Rei <img src="https://c.tenor.com/772UebLay2gAAAAi/dm4uz3-foekoe.gif" width="25"/>
 </h1>
 <div align="center" style="display: 'flex';">
-<a href="https://linkedin.com/in/reiballa"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643763369~hmac=9ea9b84defceccc7da64b3c6e9e223b2" width="25"/></a>
-<a href="https://twitter.com/reithedev"><img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1643763452~hmac=b135529dc11aae078d601215da69a3e2" width="25"/></a>
-<a href="https://reithedev.xyz"><img src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721725.png?token=exp=1643763511~hmac=d66c4e3f13280f6534976a22d2278b68" width="25"/></a>
+<a href="https://linkedin.com/in/reiballa"><img src="https://img.icons8.com/ios/250/000000/linkedin.png" width="25"/></a>
+<a href="https://twitter.com/reithedev"><img src="https://img.icons8.com/ios/250/000000/twitter.png" width="25"/></a>
+<a href="https://reithedev.xyz"><img src="https://img.icons8.com/ios/250/000000/source-code.png" width="25"/></a>
 </div>
 </div>
 <br />
