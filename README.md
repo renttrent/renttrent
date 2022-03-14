@@ -10,7 +10,7 @@ Hey, it's Rei <img src="https://c.tenor.com/772UebLay2gAAAAi/dm4uz3-foekoe.gif" 
 </div>
 <br />
 
-I like the web. <br />
+Enthusiastic about the web. <br />
 I love designing user experiences and good systems.
 
 <h3 align="center">Latest intersets</h3>
@@ -18,9 +18,7 @@ I love designing user experiences and good systems.
 ---
 - Web3
 - Smart Contracts
-- Edge functions
 - GoLang
-- WASM
 
 <h3 align="center">Coding arsenal</h3>
 
